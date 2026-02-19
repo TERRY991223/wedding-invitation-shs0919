@@ -341,7 +341,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 								}),
 								(0, n.jsx)('meta', { property: 'og:type', content: 'website' }),
 								(0, n.jsx)('meta', {
-									content: '김태형❤윤수정 결혼식에 초대합니다',
+									content: '김인선❤신혜수 결혼식에 초대합니다',
 									name: 'Title'
 								}),
 								(0, n.jsx)('meta', {
@@ -354,7 +354,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 								}),
 								(0, n.jsx)('meta', {
 									property: 'og:title',
-									content: '김태형❤윤수정 결혼식에 초대합니다'
+									content: '김인선❤신혜수 결혼식에 초대합니다'
 								}),
 								(0, n.jsx)('meta', {
 									property: 'og:description',
@@ -365,7 +365,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 									content: 'https://github.com/kth9916/wedding-invitation-kth9916'
 								}),
 								(0, n.jsx)('meta', { name: 'theme-color', content: '#BCAAA4' }),
-								(0, n.jsx)('title', { children: '김태형❤윤수정 결혼식에 초대합니다' })
+								(0, n.jsx)('title', { children: '김인선❤신혜수 결혼식에 초대합니다' })
 							]
 						}),
 						(0, n.jsxs)('main', {

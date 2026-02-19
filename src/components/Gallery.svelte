@@ -28,7 +28,7 @@
 
 <section class="gallery">
 	<div class="header">
-		<h2 class="title {localeStore.locale}">{$_('gallery.title')}</h2>
+		<h2 class="gallery title {localeStore.locale}">{$_('gallery.title')}</h2>
 		<!--		<p class="sub-title {localeStore.locale}">{$_('gallery.sub_title')}</p>-->
 	</div>
 	<div class="gallery-horizontal" id="gallery">
@@ -86,6 +86,17 @@
 			@extend .title-font-kr;
 			letter-spacing: 1px;
 		}
+		&.gallery {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			&::after {
+				content: '• • •';
+				width: 50px;
+				color: red;
+				transform: rotate(90deg);				
+			}
+		}
 	}
 
 	p.sub-title {
@@ -103,10 +114,10 @@
 	/* 가로 스크롤 갤러리 */
 	.gallery-horizontal {
 		display: flex;
-		overflow-x: auto;
-		overflow-y: hidden;
+		flex-wrap: wrap;
 		padding-bottom: 1em;
-		gap: 1em;
+		justify-content: space-around;
+		row-gap: 18px;
 		scrollbar-width: thin;
 		scrollbar-color: $primary-color-light $white-2;
 

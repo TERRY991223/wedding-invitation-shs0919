@@ -1,31 +1,31 @@
 {
   "meta": {
-    "title": "김태형과 윤수정의 결혼식에 초대합니다.",
-    "og_title": "태형이와 수정이의 모바일 청첩장",
+    "title": "김인선❤신혜수의 결혼식에 초대합니다.",
+    "og_title": "인선❤혜수의 모바일 청첩장",
     "og_description": "안녕하세요. 저희 두 사람의 인연이 \n하나되는 순간에 초대드립니다."
   },
   "cover": {
-    "date": "2025년 9월 20일 (토) 4시 40분",
-    "place": "더컨벤션 송파문정 13F 아모르홀",
+    "date": "2026년 9월 19일 (토) 12시 30분",
+    "place": "더루체웨딩",
     "names": {
-      "groom": "김태형",
+      "groom": "김인선",
       "and": "그리고",
-      "bride": "윤수정"
+      "bride": "신혜수"
     }
   },
   "letter": {
-    "date": "2025.9.20",
-    "sub_title": "저희, 결혼합니다!",
+    "date": "2026.09.19",
+    "sub_title": "저희, 결혼합니다 ❤",
     "letter_content": "서로의 석양이 되고 아침이 되어줄 소중한 인연을 만났습니다.\n\n이제 저희 두 사람이 하나 되어\n사랑으로 채워갈 날들의 시작을\n여러분과 함께 하고자 합니다.\n\n귀한 걸음으로 자리를 빛내주시는\n모든 분들께\n평생 잊지 않고 감사하는 마음으로\n살아가겠습니다.",
     "family_names": {
-      "groom_father": "김경덕",
-      "groom_mother": "곽분호",
-      "groom_son_label": "의 장남",
-      "groom_name": "김태형",
-      "bride_father": "윤병범",
-      "bride_mother": "김영미",
-      "bride_daughter_label": "의 장녀",
-      "bride_name": "윤수정"
+      "groom_father": "김이겸",
+      "groom_mother": "전계현",
+      "groom_son_label": "의 아들",
+      "groom_name": "김인선",
+      "bride_father": "신승헌",
+      "bride_mother": "이은진",
+      "bride_daughter_label": "의 딸",
+      "bride_name": "신혜수"
     }
   },
   "modal": {
@@ -47,7 +47,7 @@
     "delete_button": "삭제",
     "close_button": "닫기",
     "show_more_button": "더보기",
-    "fetch_error": "댓글을 불러오는 데 실패했습니다.",
+    "fetch_error": "댓글 불러오기에 실패했습니다.",
     "password_mismatch": "비밀번호가 일치하지 않습니다.",
     "delete_success": "댓글이 삭제되었습니다.",
     "delete_error": "댓글 삭제에 실패했습니다.",
@@ -66,26 +66,26 @@
     "father": "아버지",
     "mother": "어머니",
     "copy_guide_initial": "이름을 누르면 계좌번호가 복사됩니다.",
-    "copy_guide_success": "계좌번호가 복사되었습니다!",
+    "copy_guide_success": "계좌번호가 복사되었습니다",
     "close_button": "닫기",
-    "groom_name": "김태형",
-    "groom_bank": "하나은행",
-    "groom_account": "21491050512307",
-    "groom_father_name": "김경덕",
-    "groom_father_bank": "우리은행",
-    "groom_father_account": "15108269773",
-    "groom_mother_name": "곽분호",
-    "groom_mother_bank": "신한은행",
-    "groom_mother_account": "110166090021",
-    "bride_name": "윤수정",
-    "bride_bank": "하나은행",
-    "bride_account": "15191038224407",
-    "bride_father_name": "윤병범",
-    "bride_father_bank": "기업은행",
-    "bride_father_account": "01053574669",
-    "bride_mother_name": "김영미",
-    "bride_mother_bank": "기업은행",
-    "bride_mother_account": "31700516003019"
+    "groom_name": "김인선",
+    "groom_bank": "임시은행",
+    "groom_account": "0000000000",
+    "groom_father_name": "김이겸",
+    "groom_father_bank": "임시은행",
+    "groom_father_account": "0000000000",
+    "groom_mother_name": "전계현",
+    "groom_mother_bank": "임시은행",
+    "groom_mother_account": "0000000000",
+    "bride_name": "신혜수",
+    "bride_bank": "임시은행",
+    "bride_account": "0000000000",
+    "bride_father_name": "신승헌",
+    "bride_father_bank": "임시은행",
+    "bride_father_account": "0000000000",
+    "bride_mother_name": "이은진",
+    "bride_mother_bank": "임시은행",
+    "bride_mother_account": "0000000000"
   },
   "gallery": {
     "title": "사진 모음",
@@ -94,7 +94,7 @@
   "contact_button": {
     "copy_account_title": "계좌번호 복사",
     "kakaopay_send": "카카오페이 송금",
-    "account_copied_message": "계좌번호가 복사되었습니다!",
+    "account_copied_message": "계좌번호가 복사되었습니다",
     "close": "닫기"
   },
   "share": {
@@ -121,7 +121,7 @@
     "modal_lyrics": "[Verse]\n\n\"The breeze whispers through\n the trees so slow\"\n바람이 천천히 나무 사이로 속삭인다.\n\n\"A thousand petals dance\n where love will grow\"\n사랑이 자라날 곳에 수천 송이 꽃잎이 춤춘다.\n\n\"Soft steps echo on the path below\"\n부드러운 발걸음 소리가 아래 길 위에 울린다.\n\n[Chorus]\n\n\"Hand in hand where the sunlight glows\"\n손을 맞잡고 햇살이 빛나는 곳으로\n\n\"Together we'll go where the heart knows\"\n함께 마음이 이끄는 곳으로 갈 거야\n\n\"A thousand petals falling in rows\"\n수천 송이 꽃잎이 줄지어 떨어진다\n\n[Verse 2]\n\n\"The sky paints dreams in hues so wide\"\n하늘이 넓은 빛깔로 꿈을 그린다\n\n\"A quiet river flows where stars confide\"\n별들이 속삭이는 곳을 흐르는 잔잔한 강\n\n\"Our journey begins with hearts untied\"\n매듭을 풀고 자유로이 빛나는 마음으로 여행을 떠난다\n\n[Bridge]\n\n\"Fingers touch like the edge of dawn\"\n새벽녘의 여린 빛처럼 살며시 마주하는 손끝\n\n\"A melody lingers when the night is gone\"\n밤이 지나고도 선율은 마음에 머문다\n\n\"Two souls entwined\"\n두 영혼이 하나로 이어져서\n\n\"A bond so strong\"\n너무나도 단단한 우리의 인연이여"
   },
   "calendar": {
-    "date_time": "2025년 9월 20일 토요일 오후 4시 40분",
+    "date_time": "2026년 09월 19일 토요일 오후 12시 30분",
     "weekdays": [
       "일",
       "월",
@@ -150,10 +150,10 @@
     "subway_label": "지하철",
     "parking_label": "주차",
     "atm_label": "ATM",
-    "venue_name": "더컨벤션 송파문정",
-    "venue_address": "서울특별시 송파구 송파대로 155 NH송파농협",
-    "subway_info": "8호선 문정역 3번 출구 도보 5분",
-    "bus_description": "* 문정역 3번 출구 건너편에서 하차 후 도보 이동.\nNH송파농협 건물 외관을 참고하면 편리합니다.",
+    "venue_name": "더루체웨딩",
+    "venue_address": "경기도 안산시 단원구 중앙대로 829",
+    "subway_info": "4호선 고잔역 1번 출구에서 도보 10분",
+    "bus_description": "* 고잔역 1번 출구에서 도보 이동.\n안산 우체국 앞",
     "parking_info": "건물 내 2시간 무료주차 가능\n만차 시 옆 건물 주차 가능 (도보 1-2분)",
     "atm_info": "1층 NH 송파농협"
   }
