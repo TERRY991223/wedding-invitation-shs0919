@@ -1,0 +1,49 @@
+{
+	"name": "our-wedding-invitation",
+	"version": "0.0.1",
+	"type": "module",
+	"homepage": "https://github.com/kth9916/wedding-invitation-kth9916.git",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "pnpm run build && wrangler pages dev",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+		"format": "prettier --write .",
+		"lint": "prettier --check .",
+		"predeploy": "pnpm run build && echo > dist/.nojekyll",
+		"deploy": "gh-pages -d dist --nojekyll",
+		"cf-typegen": "wrangler types && mv worker-configuration.d.ts src/"
+	},
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20250404.0",
+		"@sveltejs/adapter-auto": "^3.3.1",
+		"@sveltejs/adapter-static": "^3.0.8",
+		"@sveltejs/kit": "^2.20.3",
+		"@sveltejs/vite-plugin-svelte": "^4.0.4",
+		"@types/gtag.js": "^0.0.20",
+		"gh-pages": "^6.3.0",
+		"prettier": "^3.5.3",
+		"prettier-plugin-svelte": "^3.3.3",
+		"sass": "^1.86.3",
+		"svelte": "^5.25.6",
+		"svelte-check": "^4.1.5",
+		"svelte-confetti": "^2.3.1",
+		"typescript": "^5.8.2",
+		"vite": "^5.4.17",
+		"wrangler": "^3.114.4"
+	},
+	"dependencies": {
+		"@fortawesome/free-solid-svg-icons": "^6.7.2",
+		"@lucide/svelte": "^0.482.0",
+		"@types/navermaps": "^3.9.1",
+		"firebase": "^11.10.0",
+		"glob": "^10.4.5",
+		"image-size": "^2.0.2",
+		"melt": "^0.28.2",
+		"photoswipe": "5",
+		"resend": "^4.2.0",
+		"svelte-fa": "^4.0.4",
+		"svelte-i18n": "^4.0.1"
+	}
+}

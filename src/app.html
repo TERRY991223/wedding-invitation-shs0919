@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta property="og:title" content="김태형과 윤수정의 결혼식" />
+		<meta property="og:description" content="안녕하세요. 결혼식 청첩장입니다." />
+		<meta property="og:image" content="https://wedding-invitation-kth9916.pages.dev/personal-assets/preview.webp" />
+		<meta property="og:url" content="https://wedding-invitation-kth9916.pages.dev/" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta
+			name="viewport"
+			content="width=device-width,
+               initial-scale=1.0,
+               maximum-scale=1.0,
+               minimum-scale=1.0,
+               user-scalable=no,
+               viewport-fit=cover"
+		/>
+		%sveltekit.head%
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+		<script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
+		<script>
+			document.addEventListener('gesturestart', function (e) {
+				e.preventDefault();
+			});
+
+			// Kakao SDK 초기화
+			if (Kakao && !Kakao.isInitialized()) {
+				Kakao.init('%sveltekit.env.VITE_KAKAO_JS_KEY%'); // 여기에 실제 JavaScript 키를 넣어주세요!
+				console.log('Kakao SDK initialized', Kakao.isInitialized());
+			}
+		</script>
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>
